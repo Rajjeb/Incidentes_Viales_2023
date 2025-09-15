@@ -1,0 +1,10 @@
+1. Abre un simbolo de sistema: CMD
+
+2. Navega a la carpeta donde están tus archivos:
+cd ruta\a\tu\carpeta
+
+3. Ejecuta el servidor local:
+python -m http.server 8000
+
+4. Abre un navegador y coloca:
+http://localhost:8000/index.html
