@@ -6,4 +6,4 @@ Se compone de tres archivos:
 
 •	Dashboard.html contiene el código para visualizar el dashboard
 
-•	Inviales_2023_edit.txt es el archivo con la información procesada y filtrada del año 202
+•	Inviales_2023_edit.txt es el archivo con la información procesada y filtrada del año 2023
